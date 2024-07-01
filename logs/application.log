@@ -1,0 +1,60 @@
+2024-06-30 22:49:14 ERROR (Main.java:29) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:26) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:15) [classes/:?]
+2024-06-30 23:07:37 ERROR (Main.java:29) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:26) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:15) [classes/:?]
+2024-06-30 23:28:56 ERROR (Main.java:29) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:26) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:15) [classes/:?]
+2024-06-30 23:36:10 ERROR (Main.java:29) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:26) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:15) [classes/:?]
+2024-07-01 01:30:53 ERROR (Main.java:29) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:26) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:15) [classes/:?]
+2024-07-01 01:33:39 ERROR (Main.java:14) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 01:33:49 ERROR (Main.java:30) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:27) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:16) [classes/:?]
+2024-07-01 02:08:37 ERROR (Main.java:15) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 02:08:47 ERROR (Main.java:31) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:28) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:17) [classes/:?]
+2024-07-01 02:23:52 ERROR (Main.java:15) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 02:24:00 ERROR (Main.java:31) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:28) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:17) [classes/:?]
+2024-07-01 02:25:50 ERROR (Main.java:15) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 02:26:09 ERROR (Main.java:31) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:28) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:17) [classes/:?]
+2024-07-01 02:32:47 ERROR (Main.java:15) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 02:33:01 ERROR (Main.java:31) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:28) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:17) [classes/:?]
+2024-07-01 02:36:05 ERROR (Main.java:15) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 02:36:18 ERROR (Main.java:31) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:28) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:17) [classes/:?]
+2024-07-01 02:37:53 ERROR (Main.java:15) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 02:38:06 ERROR (Main.java:31) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:28) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:17) [classes/:?]
+2024-07-01 02:40:56 ERROR (Main.java:15) Este es un mensaje de prueba de error para verificar el SMTP appender.
+2024-07-01 02:41:10 ERROR (Main.java:31) Paso algo raro
+java.lang.IllegalArgumentException: Error en la conversion de archivos
+	at edu.nur.edd.Main.m(Main.java:28) [classes/:?]
+	at edu.nur.edd.Main.main(Main.java:17) [classes/:?]
